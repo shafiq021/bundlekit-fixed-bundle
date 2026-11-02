@@ -41,6 +41,12 @@ Sell a fixed group of products as one kit — at a fixed total price or with a p
 
 ## Screenshots
 
+### Storefront
+
+![Bundle box on the product page](screenshots/product-bundle-box.png)
+
+**Bundle box** on the product page: tick the box to add the whole bundle as one cart line at the bundle total.
+
 ### Admin
 
 | | |
